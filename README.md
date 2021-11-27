@@ -1,3 +1,3 @@
 # hello-world
 Repository
-First Gist work
+First Git work
